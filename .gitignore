@@ -1,0 +1,20 @@
+# MATLAB editor recovery files and generated sessions
+*.asv
+*.m~
+*.autosave
+matlab_workspace
+diary
+diary.txt
+
+# Simulink generated files and caches
+slprj/
+*.slxc
+*_ert_rtw/
+*_grt_rtw/
+
+# Local system/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

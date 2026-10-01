@@ -1,0 +1,17 @@
+f(Hz) = 100 Hz
+w = 2*pi*f*Ts = 2*pi*100*1/48000 = 0.0131
+OMEGA = 3141
+amplitude x[n] = 1
+amplitude y[n] = 0,707
+Defasagem y[n] = 12 amostras
+Ganho = ampEntrada/ampSaída = 0,707
+Defasagem do Sistema = 12*w = -0,785rad = -45° (negativo pois a saída está ATRASADA)
+
+f(Hz) = 500 Hz
+w = 2.pi.f.Ts = 2.pi.500.1/48000 = 0,0654
+OMEGA = 3141
+amplitude x[n] = 1
+amplitude y[n] = 0,707
+Defasagem y[n] = 12 amostras
+Ganho = ampEntrada/ampSaída = 0,707
+Defasagem do Sistema = 12*w = -0,785rad = -45° (negativo pois a saída está ATRASADA)

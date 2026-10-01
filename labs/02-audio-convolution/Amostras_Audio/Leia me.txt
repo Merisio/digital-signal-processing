@@ -1,0 +1,5 @@
+Esta pasta contém amostras de áudio para uso nesta aula prática.
+
+Os arquivos com final IR foram gravados utilizando um equipamento profissional de Impulse Response para propósitos de comparação com os resultados obtidos com a implementação no Matlab da Resposta ao Impulso.
+
+O arquivo White Noise Burst é uma função Impulso unitário.
